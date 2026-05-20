@@ -1,0 +1,13 @@
+def calcula_descuento( )
+while true:
+    precio = float(input("ingrese el precio de la compra:"))
+    if precio >=0:
+        break
+        print("error el precio no puede ser negativo intenta de nuevo")
+        if precio >100
+            descuento = precio * 0.10
+            total = precio - descuento
+            print("tienes descuento!!, el total a pagar es: total")
+        else:
+            print("el total a pagar es: precio")
+            calcula_descuento( )
