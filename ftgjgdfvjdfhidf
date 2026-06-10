@@ -1,0 +1,18 @@
+Algoritmo multiplicaciondetresCifras
+    Escribir "Bienvenido al programa de multiplicacion."
+    Escribir "Este programa permite ingresar tres cifras"
+    Escribir "y muestra el resultado de su multiplicacion."
+    
+   escribir "Ingrese la primer cifra:"
+    Leer numero1
+    
+   Escribir "Ingrese la segunda cifra:"
+    Leer numero2
+    
+    escribir "ingrese la tercera cifra"
+   leer numero3
+    resultado <- numero1 + numero2 + numero3
+    
+    Escribir "El resultado de la multiplicacio es:"
+    Escribir resultado
+FinAlgoritmo
